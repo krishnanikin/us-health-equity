@@ -1,0 +1,16 @@
+{
+  "period": "2015-2024",
+  "real_per_capita_annual_growth_pct": 1.9089802690610336,
+  "real_per_capita_annual_growth_ci_pct": [
+    1.2304806602495333,
+    2.592027536998054
+  ],
+  "trend_p_value": 0.00018269527045827657,
+  "nominal_total_cagr_pct": 5.802793207917389,
+  "nominal_per_capita_cagr_pct": 5.134994787897007,
+  "real_per_capita_cagr_pct": 1.9103659476853663,
+  "nominal_total_change_pct": 66.1399974820597,
+  "real_per_capita_change_pct": 18.567387238080514,
+  "pct_gdp_start": 17.4,
+  "pct_gdp_end": 18.0
+}
